@@ -46,3 +46,7 @@ The project consists of two main files:
 ## Contributing
 
       If you would like to contribute to the project, feel free to submit issues or pull requests.
+
+## License
+
+   This project is licensed under the MIT License.
