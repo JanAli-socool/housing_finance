@@ -17,25 +17,30 @@ The project consists of two main files:
    git clone https://github.com/your-username/loan-project.git
    cd loan-project
 
-#Install dependencies (if any):
-
 2. Example for virtual environment
 
+   Install dependencies (if any):
    ```bash
+   
    python -m venv loan_venv
    source loan_venv/bin/activate  # On Windows, use 'loan_venv\Scripts\activate'
    pip install -r requirements.txt
 
 3. Run the main script:
 
+      ```bash
+      
       python main.py
 
 4.  Usage
 
+       ```bash
+       
        Modify the main.py file or use the provided Loan class in your own projects to calculate loan payments programmatically.
 
 5. Testing
 
       Run the test cases to ensure the correctness of the loan calculation method:
-
+      ```bash
+      
       pytest test_main.py
