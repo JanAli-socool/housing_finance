@@ -42,3 +42,7 @@ The project consists of two main files:
       ```bash
       
       pytest test_main.py
+
+## Contributing
+
+      If you would like to contribute to the project, feel free to submit issues or pull requests.
