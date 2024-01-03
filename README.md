@@ -32,16 +32,16 @@ The project consists of two main files:
       
       python main.py
 
-4.  Usage
-
-       Modify the main.py file or use the provided Loan class in your own projects to calculate loan payments programmatically.
-
-5. Testing
+4. Testing
 
       Run the test cases to ensure the correctness of the loan calculation method:
       ```bash
       
       pytest test_main.py
+
+## Usage
+
+   Modify the main.py file or use the provided Loan class in your own projects to calculate loan payments programmatically.
 
 ## Contributing
 
