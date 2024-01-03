@@ -32,7 +32,7 @@ The project consists of two main files:
       
       python main.py
 
-4. Testing
+##  Testing
 
       Run the test cases to ensure the correctness of the loan calculation method:
       ```bash
