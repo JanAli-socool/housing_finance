@@ -34,10 +34,9 @@ The project consists of two main files:
 
 ##  Testing
 
-      Run the test cases to ensure the correctness of the loan calculation method:
-      ```bash
+   Run the test cases to ensure the correctness of the loan calculation method:
       
-      pytest test_main.py
+          pytest test_main.py
 
 ## Usage
 
