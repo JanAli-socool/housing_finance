@@ -34,8 +34,6 @@ The project consists of two main files:
 
 4.  Usage
 
-       ```bash
-       
        Modify the main.py file or use the provided Loan class in your own projects to calculate loan payments programmatically.
 
 5. Testing
