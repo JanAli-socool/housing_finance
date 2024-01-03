@@ -17,7 +17,7 @@ The project consists of two main files:
    git clone https://github.com/your-username/loan-project.git
    cd loan-project
 
-##Install dependencies (if any):
+#Install dependencies (if any):
 
 2. Example for virtual environment
 
