@@ -16,3 +16,9 @@ The project consists of two main files:
    ```bash
    git clone https://github.com/your-username/loan-project.git
    cd loan-project
+
+# Example for virtual environment
+python -m venv loan_venv
+source loan_venv/bin/activate  # On Windows, use 'loan_venv\Scripts\activate'
+pip install -r requirements.txt
+
